@@ -1,0 +1,7 @@
+[plugin]
+deps = []
+
+[[flavor.deps]]
+use = "Quantumplatr/eef"
+rev = "d119722"
+hash = "21ffdc3f709ef610276a56b9fa77605"

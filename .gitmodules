@@ -1,0 +1,3 @@
+[submodule "eef.yazi"]
+	path = flavors/eef.yazi
+	url = git@github.com:Quantumplatr/eef.yazi
